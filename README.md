@@ -1,7 +1,6 @@
 # Eli Mishriki
 
-Junior at SDSU.  
-President of the Cyber Defense Team.  
+Senior at SDSU.  
 I play CCDC and NCL.  
 I code sometimes.  
-Working in SWE right now.
+Working an internship in Network Secuirty at LPL
